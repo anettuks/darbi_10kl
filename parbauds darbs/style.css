@@ -1,0 +1,39 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #d87bd3; 
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+header {
+    background-color: #333; 
+    color: #b954b9; 
+}
+
+.nav-pills .nav-item a {
+    color: #e7d5e6; 
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Courier New', monospace; 
+    text-transform: uppercase; 
+    color: #333; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+}
+
+
+h1.display-5 {
+    font-size: 2em; 
+    color: #ff5733; 
+    text-decoration: underline; 
+
+}
