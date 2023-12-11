@@ -34,5 +34,12 @@
   .carousel-control-next {
     color: #fff; 
   }
-    
- 
+  #carouselExampleAutoplaying {
+    margin: auto; 
+    max-width: 600px; 
+  }
+  
+  .card {
+    margin-top: 20px;
+    text-align: center; 
+  }
