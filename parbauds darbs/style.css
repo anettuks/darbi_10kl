@@ -1,61 +1,38 @@
-body, h1, h2, h3, p, ul, li {
-    margin: 20;
-    padding: 10;
-}
-
-
-body {
-    font-family: 'Arial', sans-serif;
-    background-color: #d87bd3; 
-}
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-
-header {
-    background-color: #333; 
-    color: #b954b9; 
-}
-
-.nav-pills .nav-item a {
-    color: #e7d5e6; 
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Courier New', monospace; 
-    text-transform: uppercase; 
-    color: #333; 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
-}
-
-
-h1.display-5 {
-    font-size: 2em; 
-    color: #ff5733; 
-    text-decoration: underline; 
-
-}
-.card {
-    background-color: #333; 
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+.nav-pills .btn {
+    color: #181518; 
+    background-color: #e76dde; 
+    border-color: #e76dde; 
   }
   
-  .card-body {
-    padding: 20px; 
+ 
+  #parmani {
+    background-color: #ca36c8; 
+    color: #000000; 
   }
   
-  .btn {
-    background-color: #333; 
-    color: #333; 
-    border-radius: 5px; 
-    padding: 10px 20px;
-    text-decoration: none; 
+  
+
+  
+ 
+  #kontaktinfo {
+    background-color: #ca36c8; 
+    color: #e76dde; 
   }
   
-  .btn:hover {
-    background-color: #2980b9; 
+ 
+  .btn-primary {
+    color: #fff; 
+    background-color: #ca36c8; 
+    border-color: #ca36c8; 
   }
+  
+  
+
+  
+ 
+  .carousel-control-prev,
+  .carousel-control-next {
+    color: #fff; 
+  }
+    
+ 
